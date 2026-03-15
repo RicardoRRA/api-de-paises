@@ -25,7 +25,8 @@ moeda — exibe as moedas do país indicado.
 
 populacao — exibe a população do país indicado.
 
-Exemplos
+Exemplos:
+
 python paises.py contagem
 
 python paises.py moeda Brasil
