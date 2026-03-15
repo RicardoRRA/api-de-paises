@@ -27,5 +27,7 @@ populacao — exibe a população do país indicado.
 
 Exemplos
 python paises.py contagem
+
 python paises.py moeda Brasil
+
 python paises.py populacao Alemanha
